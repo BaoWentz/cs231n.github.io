@@ -1,7 +1,7 @@
 
 Notes and assignments for Stanford CS class [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 
-[Tutorial for Google Colaboratory](https://youtu.be/qvwYtun1uhQ)
+[![Tutorial for Google Colaboratory](http://img.youtube.com/vi/qvwYtun1uhQ/0.jpg)](http://www.youtube.com/watch?v=qvwYtun1uhQ )
 
 If you choose to work with Google Colab, please watch the workflow tutorial above or read the instructions below.
 
